@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karla Eunice Mesina Go - Resume</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Merriweather:wght@400;700&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f3f4f6;
+            color: #1f2937;
+        }
+        h1, h2, h3, .serif {
+            font-family: 'Merriweather', serif;
+        }
+        .page-container {
+            max-width: 850px;
+            margin: 2rem auto;
+            background: white;
+            padding: 3rem 4rem;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            border-radius: 0.5rem;
+        }
+        @media (max-width: 640px) {
+            .page-container {
+                margin: 0;
+                padding: 1.5rem;
+                border-radius: 0;
+            }
+        }
+        .section-title {
+            border-bottom: 2px solid #e5e7eb;
+            padding-bottom: 0.5rem;
+            margin-bottom: 1.5rem;
+            margin-top: 2.5rem;
+            color: #111827;
+            text-transform: uppercase;
+            font-size: 1.125rem;
+            letter-spacing: 0.05em;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 1.5rem;
+            margin-top: 0.5rem;
+        }
+        li {
+            margin-bottom: 0.25rem;
+            color: #374151;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="page-container">
+        <!-- Header -->
+        <header class="text-center mb-8">
+            <h1 class="text-4xl font-bold text-gray-900 mb-2 uppercase tracking-wide">Karla Eunice Mesina Go</h1>
+            <div class="text-sm text-gray-600 flex justify-center space-x-4">
+                <span><a href="mailto:karla.opuslex@gmail.com" class="hover:text-blue-600">karla.opuslex@gmail.com</a></span>
+                <span>|</span>
+                <span>+639985748768</span>
+            </div>
+        </header>
+
+        <!-- Professional Summary -->
+        <section>
+            <p class="text-gray-700 leading-relaxed text-justify">
+                I am a senior legal counsel and corporate officer with over 12 years of experience advising executives and Board of Directors on regulatory challenges, high-stakes transactions, and complex legal matters such as securing business-critical licenses. My expertise spans regulatory compliance, Board-level corporate governance, product counseling, contract drafting and negotiation, policy advocacy, and legal operations. I thrive in tightly regulated industries including banking, payments, and energy, where evolving legal frameworks, public interest considerations, and business priorities demand strategic legal leadership.
+            </p>
+        </section>
+
+        <!-- Work Experience -->
+        <section>
+            <h2 class="section-title font-bold">Work Experience</h2>
+
+            <!-- Job 1 -->
+            <div class="mb-6">
+                <div class="flex flex-col sm:flex-row sm:justify-between sm:items-baseline mb-1">
+                    <h3 class="text-lg font-bold text-gray-900">MariBank Philippines, Inc.</h3>
+                    <span class="text-sm font-semibold text-gray-600">January 2026 – Present</span>
+                </div>
+                <div class="italic text-gray-700 mb-2">Corporate Secretary & Legal Counsel <span class="text-gray-500 text-sm not-italic ml-2">(Digital banking and allied financial services)</span></div>
+                <ul>
+                    <li>Secured a critical business license for the bank within six months in this new role.</li>
+                    <li>Completed a risk-focused regulatory audit.</li>
+                    <li>Implemented key changes to corporate housekeeping and meeting governance, including the use of AI tools for efficient and standardized output for the corporate legal team.</li>
+                </ul>
+            </div>
+
+            <!-- Job 2 -->
+            <div class="mb-6">
+                <div class="flex flex-col sm:flex-row sm:justify-between sm:items-baseline mb-1">
+                    <h3 class="text-lg font-bold text-gray-900">Sea Limited (NYSE: SE)</h3>
+                    <span class="text-sm font-semibold text-gray-600">April 2023 – January 2026</span>
+                </div>
+                <div class="italic text-gray-700 mb-2">Regulatory Legal Counsel & Corporate Secretary <span class="text-gray-500 text-sm not-italic ml-2">(E-wallet, payments, lending)</span></div>
+                <p class="text-sm text-gray-700 mb-2">Assisted the Philippine entities in their e-wallet, payments, merchant acquisition, financing, and credit scoring businesses. In one year alone, I helped the entities to:</p>
+                <ul>
+                    <li>Expand payment processing services with full regulatory approval.</li>
+                    <li>Structure a NewCo to position it for future additional licenses.</li>
+                    <li>Address the requirements of a months-long comprehensive regulatory audit.</li>
+                    <li>Oversaw corporate records management, board and board-level committee secretariat, and general corporate housekeeping.</li>
+                </ul>
+            </div>
+
+            <!-- Job 3 -->
+            <div class="mb-6">
+                <div class="flex flex-col sm:flex-row sm:justify-between sm:items-baseline mb-1">
+                    <h3 class="text-lg font-bold text-gray-900">First Digital Finance Corporation</h3>
+                    <span class="text-sm font-semibold text-gray-600">January 2023 – August 2023</span>
+                </div>
+                <div class="italic text-gray-700 mb-2">Vice President for Legal & Compliance <span class="text-gray-500 text-sm not-italic ml-2">(Consumer lending)</span></div>
+                <ul>
+                    <li>Oversaw the legal, compliance, and corporate governance functions.</li>
+                    <li>Co-led final steps in the strategic acquisition of a new entity. Tasks included securing regulatory approval, mapping out post-acquisition structure of target entity, and acquiring permits for new business lines.</li>
+                    <li>Conducted the company's inaugural privacy impact assessment and helped draft policies on business continuity planning, vendor management, and data retention, among others.</li>
+                </ul>
+            </div>
+
+            <!-- Job 4 -->
+            <div class="mb-6">
+                <div class="flex flex-col sm:flex-row sm:justify-between sm:items-baseline mb-1">
+                    <h3 class="text-lg font-bold text-gray-900">ING Bank N.V. Manila Branch (AMS: INGA)</h3>
+                    <span class="text-sm font-semibold text-gray-600">April 2022 – December 2022</span>
+                </div>
+                <div class="italic text-gray-700 mb-2">Assistant Vice President, Legal Counsel and Deputy Data Protection Officer <span class="text-gray-500 text-sm not-italic ml-2">(Banking)</span></div>
+                <ul>
+                    <li>Primary legal support for the wind-down and closure of retail banking operations in the Philippines, including drafting customer communications; reviewing product screens; liaising with relevant regulators for surrender of licenses; terminating affected tech and non-tech suppliers; advising on potential residual obligations, risks, and liabilities.</li>
+                    <li>Business as usual matters: advised on transaction documentation and labor law matters; monitored and synthesized new laws and regulations as they apply to the bank's businesses; aligned with stakeholder teams on the local applicability of international sanctions; formulated policies to operationalize new regulations; liaised with counterpart legal officers in other jurisdictions where the bank operates; worked alongside audit and compliance teams for gap analysis and remediation activities on data privacy incidents and processes; reviewed and challenged data privacy impact assessments as filled-out by 1st line officers.</li>
+                </ul>
+            </div>
+
+            <!-- Job 5 -->
+            <div class="mb-6">
+                <div class="flex flex-col sm:flex-row sm:justify-between sm:items-baseline mb-1">
+                    <h3 class="text-lg font-bold text-gray-900">First Circle Growth Finance Corp.</h3>
+                    <span class="text-sm font-semibold text-gray-600">July 2018 – March 2022</span>
+                </div>
+                <div class="italic text-gray-700 mb-2">General Counsel, Data Protection Officer, and Corporate Secretary <span class="text-gray-500 text-sm not-italic ml-2">(Corporate lending)</span></div>
+                <ul>
+                    <li>Advised senior management on key transactions, company policies, government relations, and special projects, and key regulations such as Anti-Money Laundering Act, Data Privacy Act, Financing Companies Act, Truth in Lending Act, and Manual of Regulations on Foreign Exchange Transactions.</li>
+                    <li>Introduced automated matter management and legal operations workflow at the company and managed the company's first ever paralegal/compliance associate.</li>
+                    <li>Subject matter expert for employee trainings on data privacy, legal documents, and contract review basics.</li>
+                </ul>
+            </div>
+
+            <!-- Job 6 -->
+            <div class="mb-6">
+                <div class="flex flex-col sm:flex-row sm:justify-between sm:items-baseline mb-1">
+                    <h3 class="text-lg font-bold text-gray-900">Solar Philippines</h3>
+                    <span class="text-sm font-semibold text-gray-600">July 2017 – June 2018</span>
+                </div>
+                <div class="italic text-gray-700 mb-2">Legal Counsel <span class="text-gray-500 text-sm not-italic ml-2">(Renewable energy)</span></div>
+                <ul>
+                    <li>Reviewed and negotiated engineering, procurement, and construction (EPC), power supply agreements (PSA), and point-to-point (P2P) transmission agreements.</li>
+                    <li>Represented the company at regulatory hearings, including at the Senate and the House of Representatives.</li>
+                    <li>Managed the bidding for private and publicly owned solar power projects.</li>
+                </ul>
+            </div>
+
+            <!-- Job 7 -->
+            <div class="mb-6">
+                <div class="flex flex-col sm:flex-row sm:justify-between sm:items-baseline mb-1">
+                    <h3 class="text-lg font-bold text-gray-900">Paredes Garcia and Golez Law Office</h3>
+                    <span class="text-sm font-semibold text-gray-600">December 2013 – July 2017</span>
+                </div>
+                <div class="italic text-gray-700 mb-2">Associate <span class="text-gray-500 text-sm not-italic ml-2">(Litigation, commercial law, family law)</span></div>
+                <ul>
+                    <li>Managed the incorporation, administration, and retirement of corporate entities.</li>
+                    <li>Oversaw extrajudicial settlement of estate and supervised the subsequent transfer and registration of the decedent's properties to the heirs.</li>
+                    <li>Advised individual and corporate clients on immigration, family law, labor, litigation, intellectual property, and general corporate, commercial matters.</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Executive Education -->
+        <section>
+            <h2 class="section-title font-bold">Executive Education & Certifications</h2>
+            <div class="grid grid-cols-1 gap-2 text-sm text-gray-800">
+                <div class="flex"><span class="w-32 font-semibold flex-shrink-0">July 2026</span><span>Anti-Money Laundering Refresher Training - ARCCO</span></div>
+                <div class="flex"><span class="w-32 font-semibold flex-shrink-0">June 2025</span><span>Driving Board Excellence: The Power of OECD Principles - Institute of Corporate Directors, Philippines</span></div>
+                <div class="flex"><span class="w-32 font-semibold flex-shrink-0">Nov 2024</span><span>Advanced Corporate Governance - Institute of Corporate Directors, Philippines</span></div>
+                <div class="flex"><span class="w-32 font-semibold flex-shrink-0">Oct 2024</span><span>Anti-Money Laundering & Counter-Terrorist Financing (Cert ID: ARCCO-2410-302) - AMLC, Philippines</span></div>
+                <div class="flex"><span class="w-32 font-semibold flex-shrink-0">March 2024</span><span>Certified Information Privacy Professional/Europe (CIPP/E) - IAPP (Certification exam to be scheduled)</span></div>
+                <div class="flex"><span class="w-32 font-semibold flex-shrink-0">2023</span><span>Cyber Risk Supervision - International Monetary Fund & edX</span></div>
+                <div class="flex"><span class="w-32 font-semibold flex-shrink-0">2022</span><span>T(ech) Shaped Lawyer - Taylor Wessing Law Firm, United Kingdom</span></div>
+                <div class="flex"><span class="w-32 font-semibold flex-shrink-0">2021</span><span>File Counsel - Philippine Dispute Resolution Center, Inc.</span></div>
+                <div class="flex"><span class="w-32 font-semibold flex-shrink-0">2020</span><span>Commercial Arbitration Counsel - Philippine Dispute Resolution Center, Inc.</span></div>
+                <div class="flex"><span class="w-32 font-semibold flex-shrink-0">2019</span><span>Data Protection Officer ACE Level 1 - National Privacy Commission, Philippines</span></div>
+                <div class="flex"><span class="w-32 font-semibold flex-shrink-0">2018</span><span>Certified Data Protection Officer - TÜV Rheinland</span></div>
+                <div class="flex"><span class="w-32 font-semibold flex-shrink-0">2018</span><span>Hokkien for Beginners - Ateneo de Manila University Center for Chinese Studies, Philippines</span></div>
+                <div class="flex"><span class="w-32 font-semibold flex-shrink-0">2016</span><span>Accounting for Non-Accountants - UP Institute of Small-Scale Industries, Philippines</span></div>
+            </div>
+        </section>
+
+        <!-- Two Column Layout for Skills & Affiliations -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
+            
+            <!-- Technology Skills -->
+            <section>
+                <h2 class="section-title font-bold mt-0">Technology Skills</h2>
+                <ul class="text-sm">
+                    <li>Knowledgeable in Google Workspace and Microsoft 365 applications</li>
+                    <li>Comfortable with project management and collaboration tools such as Asana and Notion</li>
+                    <li>Working knowledge of UI/UX design and prototyping applications including draw.io, Figma, InVision, Miro, and Zeplin</li>
+                    <li>Actively developing my mastery of AI tools such as Google Gemini, NotebookLM, Claude, and Perplexity</li>
+                    <li>Basic knowledge of design applications like Canva and Microsoft Designer</li>
+                </ul>
+            </section>
+
+            <!-- Professional Affiliations -->
+            <section>
+                <h2 class="section-title font-bold mt-0">Professional Affiliations</h2>
+                <ul class="text-sm">
+                    <li><strong>Director</strong>, Philippine Finance Association, Inc. (2021-2022 Board)</li>
+                    <li><strong>Registered File Counsel</strong>, Philippine Dispute Resolution Center, Inc.</li>
+                    <li><strong>Registered Commercial Arbitration Counsel</strong>, Philippine Dispute Resolution Center, Inc.</li>
+                    <li><strong>Member</strong>, UP Women in Law Circle, Inc.</li>
+                    <li><strong>Philippine Delegate</strong> to the 2004 ASEAN Student Exchange Program</li>
+                </ul>
+            </section>
+
+        </div>
+
+        <!-- Education -->
+        <section>
+            <h2 class="section-title font-bold">Education</h2>
+            <div class="space-y-4">
+                <div>
+                    <h3 class="text-base font-bold text-gray-900">Juris Doctor <span class="text-gray-500 font-normal">| 2013</span></h3>
+                    <div class="text-gray-700">University of the Philippines College of Law</div>
+                </div>
+                <div>
+                    <h3 class="text-base font-bold text-gray-900">AB Communication (Journalism track) & Minor in German Studies <span class="text-gray-500 font-normal">| 2009</span></h3>
+                    <div class="text-gray-700">Ateneo de Manila University</div>
+                    <div class="text-sm text-gray-600 italic">Cum Laude, Scholar (2005-2009)</div>
+                </div>
+                <div>
+                    <h3 class="text-base font-bold text-gray-900">High School <span class="text-gray-500 font-normal">| 2005</span></h3>
+                    <div class="text-gray-700">Rizal High School (Main Campus)</div>
+                    <div class="text-sm text-gray-600 italic">Top 12</div>
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+</body>
+</html>
